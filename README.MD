@@ -47,7 +47,8 @@ Open your browser: http://127.0.0.1:8013
 📸 Screenshots / Demo
 
 Chatbot Screenshot:https://github.com/UshaSudulaguntla-11/Chatbot-Gen_Ai-/blob/main/assets/Chatbot_screenshot.png
-Watch Demo Video:
+
+Watch Demo Video:https://github.com/UshaSudulaguntla-11/Chatbot-Gen_Ai-/blob/main/assets/chatbot_demo.mp4
 
 🔑 API Key
 Required to use the chatbot.
