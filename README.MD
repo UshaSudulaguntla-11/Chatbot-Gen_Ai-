@@ -36,7 +36,18 @@ User → Frontend JS → Flask Backend → Gemini AI API → Backend → Fronten
 Install dependencies:
 pip install -r requirements.txt
 
+Create a .env file in the root folder with your Gemini API key:
+GENAI_API_KEY=YOUR_API_KEY_HERE
+
 Run the app:
 python main.py
 
 Open your browser: http://127.0.0.1:8013
+
+📸 Screenshots / Demo
+Chatbot Screenshot:
+Watch Demo Video
+
+🔑 API Key
+Required to use the chatbot.
+Keep it private and do not push it to GitHub.
